@@ -18,7 +18,7 @@ Project of 6 channel PWM generator on Atmega328p-pu with 2x16 lcd display
 
 #### Schematic:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177413326-956a6e1d-d64c-422c-ac28-198a6ce9f48d.png" />
+  <img src="https://user-images.githubusercontent.com/64035334/177416283-cb831be5-82bc-4e7c-aa62-e89c5dc5eae6.png" />
 </p>
 
 
