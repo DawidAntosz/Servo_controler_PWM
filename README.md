@@ -11,3 +11,4 @@ Optionality:
 - value set in degrees 0°-180° of servo rotation
 
 Schematic:
+![image](https://user-images.githubusercontent.com/64035334/177413326-956a6e1d-d64c-422c-ac28-198a6ce9f48d.png)
