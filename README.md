@@ -2,17 +2,17 @@
 
 Project of 6 channel PWM generator on Atmega328p-pu with 2x16 lcd display
 
-Value setting:
+#### Value setting:
 - manual (2 buttons) 
 - I2C communication
 
-Optionality:
+#### Optionality:
 - selection of ports 1-6 for PWM signal generation
 - value set in degrees 0°-180° of servo rotation
 
-### Atmega outputs:
+#### Atmega outputs:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177414345-71769356-4315-4d4f-982a-0f35538a6f5a.png" height="100" />
+  <img src="https://user-images.githubusercontent.com/64035334/177414345-71769356-4315-4d4f-982a-0f35538a6f5a.png" height="200" />
 </p>
 
 #### Schematic:
