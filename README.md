@@ -7,7 +7,7 @@ Value setting:
 - I2C communication
 
 Optionality:
--selection of ports 1-6 for PWM signal generation
--value set in degrees 0°-180° of servo rotation
+- selection of ports 1-6 for PWM signal generation
+- value set in degrees 0°-180° of servo rotation
 
 Schematic:
