@@ -9,6 +9,10 @@ Value setting:
 Optionality:
 - selection of ports 1-6 for PWM signal generation
 - value set in degrees 0°-180° of servo rotation
+Atmega outputs:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64035334/177414345-71769356-4315-4d4f-982a-0f35538a6f5a.png" />
+</p>
 
 Schematic:
 ![image](https://user-images.githubusercontent.com/64035334/177413326-956a6e1d-d64c-422c-ac28-198a6ce9f48d.png)
