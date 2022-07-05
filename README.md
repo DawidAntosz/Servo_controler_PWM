@@ -1,7 +1,6 @@
 # Servo controler PWM
 
-Project of 6 channel PWM generator on Atmega328P-PU with 2x16 lcd which displays the number of ports used and specific value.
-
+Project of 6 channel PWM generator on Atmega328P-PU with 2x16 lcd which displays the number of ports used and specific value.<br />
 The remaining ports PC0, PC1, PC2, PC3 according to the possibilities for general use.
 
 #### Value setting:
