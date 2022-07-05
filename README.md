@@ -14,7 +14,7 @@ The remaining ports PC0, PC1, PC2, PC3 according to the possibilities for genera
 
 #### Schematic:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177416283-cb831be5-82bc-4e7c-aa62-e89c5dc5eae6.png" />
+  <img src="https://user-images.githubusercontent.com/64035334/177417897-1b7af1aa-1d3f-49db-90b7-9aefa702d41d.png" />
 </p>
 
 #### Atmega328P-PU outputs:
