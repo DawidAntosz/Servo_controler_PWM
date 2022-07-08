@@ -23,7 +23,7 @@ Powering the servos from an external source.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177893260-9e64ce1e-0459-4a67-92ea-90f176391dbd.png" />
+  <img src="https://user-images.githubusercontent.com/64035334/177893324-2155e75b-e29c-47dd-b152-dbe4cc315678.png" />
 </p>
 
 <p align="center">
