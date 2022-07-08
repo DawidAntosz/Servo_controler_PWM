@@ -29,7 +29,7 @@ Powering the servos from an external source.
 
 #### Atmega328P-PU outputs:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177892341-275cee10-aec5-4f1f-b29a-1f927f3bb094.png" height = "250" />
+  <img src="https://user-images.githubusercontent.com/64035334/177892341-275cee10-aec5-4f1f-b29a-1f927f3bb094.png" height = "300" />
 </p>
 
 
