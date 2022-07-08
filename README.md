@@ -21,9 +21,9 @@ Powering the servos from an external source.
   <img src="https://user-images.githubusercontent.com/64035334/177889752-7c8d0d7a-53ee-4fb0-a4a3-92661156e2c0.png" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177889950-4d9f4f44-7777-42bc-bd00-ca93a0acc47a.png" />
+  <img src="https://user-images.githubusercontent.com/64035334/177892812-44e56187-1419-47c4-b371-4797ef9cb6cb.png" />
 </p>
-![image](https://user-images.githubusercontent.com/64035334/177892812-44e56187-1419-47c4-b371-4797ef9cb6cb.png)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/177890361-332244c6-05a9-40d1-8fdd-21a5857ef05b.png" />
