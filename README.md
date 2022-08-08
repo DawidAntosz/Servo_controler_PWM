@@ -31,6 +31,14 @@ Powering the servos from an external source.
 </p>
 
 
+##PROGRAM description:
+
+TIMER0 for PWM 
+
+![image](https://user-images.githubusercontent.com/64035334/183487624-d66d5a1e-d2da-453b-8ec5-904da820342c.png)
+ 
+
+
 
 
 
