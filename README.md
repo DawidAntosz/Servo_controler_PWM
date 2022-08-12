@@ -21,7 +21,7 @@ Powering the servos from an external source.
 #### PCB from KiCad 6.0
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64035334/184446491-74c9fd44-4221-442b-9973-27dbd792c26c.png" width="400" /> 
+<img src="https://user-images.githubusercontent.com/64035334/184446491-74c9fd44-4221-442b-9973-27dbd792c26c.png" width="390" /> 
 <img src="https://user-images.githubusercontent.com/64035334/184446645-12c16e73-7fcf-4c7b-87cc-a8c451541f7a.png" width="440" />
 </p>
 
