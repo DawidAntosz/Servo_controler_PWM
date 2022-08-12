@@ -34,7 +34,7 @@ Powering the servos from an external source.
 </p>
 
 
-## Timers using in project - description from datasheet:
+# Timers using in project - description from datasheet:
 
 TIMER0 for PWM 
 ![image](https://user-images.githubusercontent.com/64035334/184011073-686e2480-1d23-48f0-9f22-e35dc4fab74c.png)
