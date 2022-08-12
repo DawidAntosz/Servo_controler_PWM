@@ -1,7 +1,7 @@
 # Servo controler PWM
 
 Project of 6 channel PWM generator on Atmega328P-PU with 2x16 lcd which displays the number of ports used and specific value.<br />
-The remaining ports PC0, PC1, PC2, PC3 according to the possibilities for general use.<br />
+The remaining ports PC0, PC1, PC2, PC3 according to the possibilities for general use, example connection of two joysticks.<br />
 Powering the servos from an external source.
 
 #### Value setting:
@@ -15,7 +15,7 @@ Powering the servos from an external source.
 
 #### Schematic:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64035334/177417897-1b7af1aa-1d3f-49db-90b7-9aefa702d41d.png" />
+  <img src="https://user-images.githubusercontent.com/64035334/184445404-4d4c22af-b061-4279-89d7-b70cb9a22796.png" />
 </p>
 
 <p align="center">
