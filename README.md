@@ -17,13 +17,11 @@ Powering the servos from an external source.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/184445404-4d4c22af-b061-4279-89d7-b70cb9a22796.png" />
 </p>
-[//]: # (------------------------------------------COMMMENT TEST----------------)
-
+### PCB from KiCad 6.0
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/184446491-74c9fd44-4221-442b-9973-27dbd792c26c.png" width="450" /> <img src="https://user-images.githubusercontent.com/64035334/184446645-12c16e73-7fcf-4c7b-87cc-a8c451541f7a.png" width="500" />
   
-  <img src="https://user-images.githubusercontent.com/64035334/184446754-b61995f1-f479-4f09-9cec-50737c38f749.png" height = "250" /> <img src="https://user-images.githubusercontent.com/64035334/184446885-974ce7b1-abd6-4d39-b52b-0d7b5ee99c7f.png" height = "350" />
-  
+  <img src="https://user-images.githubusercontent.com/64035334/184446754-b61995f1-f479-4f09-9cec-50737c38f749.png" height = "350" /> <img src="https://user-images.githubusercontent.com/64035334/184446885-974ce7b1-abd6-4d39-b52b-0d7b5ee99c7f.png" height = "350" />
 </p>
 
 
