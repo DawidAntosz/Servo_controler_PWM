@@ -35,17 +35,7 @@ Powering the servos from an external source.
 </p>
 
 
-# Timers using in project - description from datasheet:
 
-TIMER0 for PWM 
-![image](https://user-images.githubusercontent.com/64035334/184011073-686e2480-1d23-48f0-9f22-e35dc4fab74c.png)
-![image](https://user-images.githubusercontent.com/64035334/184011144-39d04c72-28b3-4e31-8d42-9c2e494c5824.png)
-![image](https://user-images.githubusercontent.com/64035334/184011186-76fc60bd-8f44-46b1-ac80-24520565a301.png)
-![image](https://user-images.githubusercontent.com/64035334/184011284-5fa0c075-d014-43e8-90b1-37f020e4ade8.png)
-![image](https://user-images.githubusercontent.com/64035334/184011308-5664a95b-c749-45b1-bfe5-58f45bf51946.png)
-![image](https://user-images.githubusercontent.com/64035334/184011377-b1f3e2c4-1ab7-4729-aa15-8548d417869a.png)
-![image](https://user-images.githubusercontent.com/64035334/184011434-dd7b3d0e-a89a-4eb5-b463-d5079c856c26.png)
-![image](https://user-images.githubusercontent.com/64035334/184011558-3afac3b0-57bf-44bf-8987-872f5c186e04.png)
 
 
 
