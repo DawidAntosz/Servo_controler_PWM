@@ -37,10 +37,10 @@ Powering the servos from an external source.
 
 
 
-#### Using the connector J9 ADC pin pilot board:
+#### Using the connector J9, ADC pin using for joystick pilot with I2C accelerometr board:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/64035334/207272405-caccc075-926d-4248-9d10-a8b149b2a011.png" width="390" /> 
+<img src="https://user-images.githubusercontent.com/64035334/207272405-caccc075-926d-4248-9d10-a8b149b2a011.png" /> 
 <img src="https://user-images.githubusercontent.com/64035334/207272658-5b07a83e-24c6-4fb1-8dcf-95c05c0c7290.png" width="430" />
 <img src="https://user-images.githubusercontent.com/64035334/207273080-c066c314-89e9-4fae-9c56-adbcca1682d0.png"  />
 </p>
