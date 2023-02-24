@@ -1,0 +1,47 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin/g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin/gdb.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/include",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/src",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/lib/PWM_soft",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/lib/I2C",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/lib/main_menu",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/lib/LCD",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/lib/button",
+    "c:/Users/Dawid/Desktop/6Servo_control/6_servo_control_program/.pio/libdeps/ATmega328P/Unity/src",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "files.associations": {
+    "interrupt.h": "c",
+    "io.h": "c",
+    "button.h": "c",
+    "stdbool.h": "c"
+  }
+}

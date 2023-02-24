@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control",
+      "program": "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin/gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "type": "platformio-debug",
+      "request": "launch",
+      "name": "PIO Debug",
+      "executable": "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/.pio/build/ATmega328P/firmware.elf",
+      "projectEnvName": "ATmega328P",
+      "toolchainBinDir": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin",
+      "internalConsoleOptions": "openOnSessionStart",
+      "preLaunchTask": {
+        "type": "PlatformIO",
+        "task": "Pre-Debug"
+      }
+    },
+    {
+      "type": "platformio-debug",
+      "request": "launch",
+      "name": "PIO Debug (skip Pre-Debug)",
+      "executable": "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/.pio/build/ATmega328P/firmware.elf",
+      "projectEnvName": "ATmega328P",
+      "toolchainBinDir": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
+    {
+      "type": "platformio-debug",
+      "request": "launch",
+      "name": "PIO Debug (without uploading)",
+      "executable": "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/.pio/build/ATmega328P/firmware.elf",
+      "projectEnvName": "ATmega328P",
+      "toolchainBinDir": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin",
+      "internalConsoleOptions": "openOnSessionStart",
+      "loadMode": "manual"
+    }
+  ]
+}

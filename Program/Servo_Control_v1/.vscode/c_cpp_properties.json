@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x86",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:/Users/Dawid/Desktop/AVR/6Servo_control/Servo_Control/include",
+        "c:/Users/Dawid/Desktop/AVR/6Servo_control/Servo_Control/src",
+        "c:/Users/Dawid/Desktop/AVR/6Servo_control/Servo_Control/lib/LCD",
+        ""
+      ],
+      "browse": {
+        "limitSymbolsToIncludedHeaders": true,
+        "path": [
+          "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/include",
+          "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/src",
+          "c:/Users/Dawid/Desktop/6Servo_control/Servo_Control/lib/LCD",
+          ""
+        ]
+      },
+      "defines": [
+        "F_CPU=1000000UL",
+        "PLATFORMIO=60103",
+        "ARDUINO_AVR_ATmega328P",
+        "__AVR_ATmega328P__",
+        ""
+      ],
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "compilerPath": "C:/Users/Dawid/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+      "compilerArgs": [
+        "-mmcu=atmega328p",
+        ""
+      ],
+      "intelliSenseMode": "windows-gcc-x86"
+    }
+  ],
+  "version": 4
+}
